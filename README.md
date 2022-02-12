@@ -1,11 +1,22 @@
 # Classification-of-loading-conditions-based-on-Acoustic-Emissions using MATLAB
 
+**Files:**
+
+Project code         - final code
+
+Features             - feat1, feat2, feat3, feat4, feat5
+
+Data Preprocessing   - Testset, Trainingset, loadDataset1, loadDataset2, Datafiltering, Datasetf1eatures, Dataset2features, myfilter etc...
+
+Plots                - FilteredFFTplot, Spectrogramplot, Unfilteredplots 
+
 **Project Description:**
 
 In this project, using an Acoustic Emission (AE) signal from a Pin-on-disc tribometer, which is a widely used tribological apparatus and Machine learning framework to classify the various loading conditions (load and RPM).
 The study was performed on twelve AE signal data containing two experimental datasets with 6 loading conditions each 
 - 2 RPMs : 300 min-1,450 min-1 &
 - 3 loading conditions : 0N, 40N, 80N
+
 
 **Feature Engineering:**
 
